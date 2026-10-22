@@ -1,0 +1,98 @@
+[
+  {
+    "id": 10,
+    "name": "Sac à main élégant",
+    "category": "Mode",
+    "price": 350,
+    "stock": 12,
+    "image": "images/sac.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Robe fleurie",
+    "category": "Mode",
+    "price": 420,
+    "stock": 8,
+    "image": "images/robe.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Montre élégante",
+    "category": "Mode",
+    "price": 500,
+    "stock": 6,
+    "image": "images/montre.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Collier en perles",
+    "category": "Mode",
+    "price": 180,
+    "stock": 15,
+    "image": "images/collier perle.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Parfum féminin",
+    "category": "Beauté",
+    "price": 300,
+    "stock": 10,
+    "image": "images/parfum.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Palette de maquillage",
+    "category": "Beauté",
+    "price": 150,
+    "stock": 20,
+    "image": "images/palette.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Rouge à lèvres",
+    "category": "Beauté",
+    "price": 90,
+    "stock": 18,
+    "image": "images/rouge a levre.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Crème de soin",
+    "category": "Beauté",
+    "price": 120,
+    "stock": 14,
+    "image": "images/creme.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Masque de beauté",
+    "category": "Beauté",
+    "price": 60,
+    "stock": 25,
+    "image": "images/masque.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Brosse électrique",
+    "category": "Beauté",
+    "price": 250,
+    "stock": 9,
+    "image": "images/brosse.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Écouteurs AirPods",
+    "category": "Électronique",
+    "price": 650,
+    "stock": 7,
+    "image": "images/airpods.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Lampe décorative",
+    "category": "Maison",
+    "price": 280,
+    "stock": 11,
+    "image": "images/lampe.jpg"
+  }
+]

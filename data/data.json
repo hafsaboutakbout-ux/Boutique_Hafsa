@@ -1,0 +1,243 @@
+[
+
+  {
+
+    "id": 1,
+
+    "name": "Sac à main élégant",
+
+    "category": "Mode",
+
+    "price": 350,
+
+    "available": true,
+
+    "quantity": 12,
+
+    "image": "images/sac.jpg",
+
+    "description": "Sac à main élégant pour les sorties et le quotidien."
+
+  },
+
+  {
+
+    "id": 2,
+
+    "name": "Robe fleurie",
+
+    "category": "Mode",
+
+    "price": 420,
+
+    "available": true,
+
+    "quantity": 8,
+
+    "image": "images/robe.jpg",
+
+    "description": "Robe fleurie élégante et confortable."
+
+  },
+
+  {
+
+    "id": 3,
+
+    "name": "Montre classique",
+
+    "category": "Mode",
+
+    "price": 550,
+
+    "available": false,
+
+    "quantity": 0,
+
+    "image": "images/montre.jpg",
+
+    "description": "Montre raffinée avec bracelet élégant."
+
+  },
+
+  {
+
+    "id": 4,
+
+    "name": "Parfum floral",
+
+    "category": "Beauté",
+
+    "price": 280,
+
+    "available": true,
+
+    "quantity": 15,
+
+    "image": "images/parfum.jpg",
+
+    "description": "Parfum aux notes florales douces."
+
+  },
+
+  {
+
+    "id": 5,
+
+    "name": "Palette de maquillage",
+
+    "category": "Beauté",
+
+    "price": 320,
+
+    "available": true,
+
+    "quantity": 10,
+
+    "image": "images/palette.jpg",
+
+    "description": "Palette de maquillage aux couleurs variées."
+
+  },
+
+  {
+
+    "id": 6,
+
+    "name": "Crème de soin",
+
+    "category": "Beauté",
+
+    "price": 150,
+
+    "available": false,
+
+    "quantity": 0,
+
+    "image": "images/creme.jpg",
+
+    "description": "Crème hydratante pour prendre soin de la peau."
+
+  },
+
+  {
+
+    "id": 7,
+
+    "name": "Lampe décorative",
+
+    "category": "Maison",
+
+    "price": 240,
+
+    "available": true,
+
+    "quantity": 7,
+
+    "image": "images/lampe.jpg",
+
+    "description": "Lampe décorative pour une ambiance chaleureuse."
+
+  },
+
+  {
+
+    "id": 8,
+
+    "name": "Collier de perles",
+
+    "category": "Mode",
+
+    "price": 180,
+
+    "available": true,
+
+    "quantity": 14,
+
+    "image": "images/collier perle.jpg",
+
+    "description": "Collier de perles élégant et intemporel."
+
+  },
+
+  {
+
+    "id": 9,
+
+    "name": "AirPods",
+
+    "category": "Électronique",
+
+    "price": 390,
+
+    "available": true,
+
+    "quantity": 9,
+
+    "image": "images/airpods.jpg",
+
+    "description": "Écouteurs Bluetooth avec boîtier de recharge."
+
+  },
+
+  {
+
+    "id": 10,
+
+    "name": "Brosse de coiffure",
+
+    "category": "Beauté",
+
+    "price": 130,
+
+    "available": false,
+
+    "quantity": 0,
+
+    "image": "images/brosse.jpg",
+
+    "description": "Brosse pratique pour le coiffage quotidien."
+
+  },
+
+  {
+
+    "id": 11,
+
+    "name": "Masque de soin",
+
+    "category": "Beauté",
+
+    "price": 95,
+
+    "available": true,
+
+    "quantity": 20,
+
+    "image": "images/masque.jpg",
+
+    "description": "Masque de soin pour une routine beauté."
+
+  },
+
+  {
+
+    "id": 12,
+
+    "name": "Rouge à lèvres",
+
+    "category": "Beauté",
+
+    "price": 110,
+
+    "available": true,
+
+    "quantity": 18,
+
+    "image": "images/rouge a levre.jpg",
+
+    "description": "Rouge à lèvres aux teintes élégantes."
+
+  }
+
+]

@@ -1,0 +1,150 @@
+body {
+    background-color: #fcf9f7;
+    color: #443347;
+}
+
+.navbar {
+    background-color: #fffdf9;
+    box-shadow: 0 3px 15px rgba(101, 66, 103, 0.10);
+}
+
+.navbar-brand {
+    color: #654267 !important;
+}
+
+.navbar-text {
+    color: #88618a;
+}
+
+.hero {
+    background: linear-gradient(135deg, #f5eddf, #f5dfe8, #e7d8ec);
+    padding: 105px 20px;
+}
+
+.hero h1 {
+    color: #654267;
+    font-family: Georgia, serif;
+}
+
+.hero p {
+    color: #755d75;
+}
+
+.hero .btn {
+    background-color: #654267;
+    color: white;
+    border-radius: 30px;
+}
+
+.hero .btn:hover {
+    background-color: #88618a;
+    color: white;
+}
+
+section h2 {
+    color: #654267;
+    font-family: Georgia, serif;
+}
+
+.card {
+    border: 1px solid #eee0e5;
+    border-radius: 18px;
+    overflow: hidden;
+    background-color: white;
+    box-shadow: 0 5px 20px rgba(101, 66, 103, 0.10);
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 28px rgba(101, 66, 103, 0.18);
+}
+
+.card h3 {
+    color: #88618a;
+}
+
+.product-image {
+    width: 100%;
+    height: 260px;
+    object-fit: cover;
+    background-color: #f5eddf;
+}
+
+.product-card .card-title {
+    color: #654267;
+}
+
+.product-price {
+    color: #88618a;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #654267;
+    border-color: #654267;
+}
+
+.btn-primary:hover {
+    background-color: #88618a;
+    border-color: #88618a;
+}
+
+.btn-secondary {
+    background-color: #d7a6b8;
+    border-color: #d7a6b8;
+    color: #443347;
+}
+
+.btn-secondary:hover {
+    background-color: #c58da5;
+    border-color: #c58da5;
+    color: white;
+}
+
+.form-control:focus,
+.form-select:focus {
+    border-color: #88618a;
+    box-shadow: 0 0 5px rgba(136, 97, 138, 0.25);
+}
+
+.form-check-input:checked {
+    background-color: #88618a;
+    border-color: #88618a;
+}
+
+.detail-image {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 12px;
+    background-color: #f5eddf;
+}
+
+.modal-header {
+    background-color: #654267;
+    color: white;
+}
+
+footer {
+    background-color: #654267;
+    color: white;
+}
+
+@media (max-width: 768px) {
+    .hero {
+        padding: 65px 15px;
+    }
+
+    .hero h1 {
+        font-size: 32px;
+    }
+
+    .product-image {
+        height: 220px;
+    }
+
+    .detail-image {
+        height: 240px;
+    }
+}
